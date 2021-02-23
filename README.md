@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <a href="/" align="left">
    ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&hide=javascript,html)
   </a>
+  
+- 🌱 I’m currently learning the art of coding at Boise Codeworks
 
 <h3> How to reach me </h3>
 
@@ -28,4 +30,3 @@ Here are some ideas to get you started:
 
 <h3> About Me </h3>
 
-- 🌱 I’m currently learning the art of coding at Boise Codeworks
