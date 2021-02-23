@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3> How to reach me </h3>
 
-- 📫  Email - nikolacop05@gmail.com
+- 📫  Email    - nikolacop05@gmail.com
 - 💼  LinkedIn - https://www.linkedin.com/in/nikola-cop-394a60207/
 
 <h3> About Me </h3>
