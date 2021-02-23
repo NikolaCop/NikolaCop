@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - 💼  LinkedIn - https://www.linkedin.com/in/nikola-cop-394a60207/
 
 <h3> About Me </h3>
+
+- 🌱 I’m currently learning the art of coding at Boise Codeworks
